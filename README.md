@@ -8,10 +8,10 @@
 
 效果图|描述
 :----|:-----:
+![登陆界面](https://github.com/CD4356/BookStore/blob/master/image/wel.jpg width=400 heigth=350)|登陆界面是一个窗口，该窗口主要分为两部分，北区为图片区，图片放在JLabel组件中。另一个为正文区，主要为两个文本框和一个按钮，用于实现登陆跳转，还有一个JLabel用于显示登陆提示
+
 ![登陆界面](https://github.com/CD4356/BookStore/blob/master/image/wel.jpg)|登陆界面是一个窗口，该窗口主要分为两部分，北区为图片区，图片放在JLabel组件中。另一个为正文区，主要为两个文本框和一个按钮，用于实现登陆跳转，还有一个JLabel用于显示登陆提示
-:----|:-----:
-![登陆界面](https://github.com/CD4356/BookStore/blob/master/image/wel.jpg)|登陆界面是一个窗口，该窗口主要分为两部分，北区为图片区，图片放在JLabel组件中。另一个为正文区，主要为两个文本框和一个按钮，用于实现登陆跳转，还有一个JLabel用于显示登陆提示
-:----|:-----:
+
 ![登陆界面](https://github.com/CD4356/BookStore/blob/master/image/wel.jpg)|登陆界面是一个窗口，该窗口主要分为两部分，北区为图片区，图片放在JLabel组件中。另一个为正文区，主要为两个文本框和一个按钮，用于实现登陆跳转，还有一个JLabel用于显示登陆提示
 
 
