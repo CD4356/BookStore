@@ -9,9 +9,12 @@
 ![书籍管理界面](https://github.com/CD4356/BookStore/blob/master/image/admin.jpg "悬停显示")|`登陆成功后，则会跳转到书籍管理界面，该界面也是一个窗口，使用setBounds()方法来设置组件的位置(使用setBounds()前需setLayout(null)清空布局管理器)，其中JToolBar有四个按钮与4个界面相对应。用于实现界面的切换，JTable表格用于显示数据库中所有书籍的信息，文本框和按钮用来提交书籍的增删改操作，提交失败时，会弹出一个消息对话框来提示错误`
 
 <br>
-项目结构如下图：
 
-<img src="https://github.com/CD4356/BookStore/blob/master/image/jiegou.jpg" width="300" height="350" alt="项目结构"/>
+【项目结构】
+
+![项目结构](https://github.com/CD4356/BookStore/blob/master/image/jiegou.jpg "项目结构")
+
+<br>
 
 【三层架构】
 
@@ -19,6 +22,10 @@
 
 <br>
 
-【两层和三层开发模式的区别】
+【三层与实体层之间的依赖关系】
 
-![两层和三层的区别？](https://github.com/CD4356/BookStore/blob/master/image/san_and_entity.png "两层和三层的区别")
+![三层与实体层之间的依赖关系](https://github.com/CD4356/BookStore/blob/master/image/san_and_entity.png "三层与实体层之间的依赖关系")
+
+<br><br>
+
+我的博客地址：[https://blog.csdn.net/weixin_42950079/article/details/88533082](https://blog.csdn.net/weixin_42950079/article/details/88533082)
